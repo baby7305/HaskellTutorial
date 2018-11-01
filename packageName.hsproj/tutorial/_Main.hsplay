@@ -1,0 +1,20 @@
+-- Haskell Playground 1.0
+3 * 5
+
+4 ^ 2 - 1
+
+(1 - 5)^(3 * 2 - 4)
+
+"Hello" ++ ", Haskell"
+
+succ 5
+
+truncate 6.59
+
+round 6.59
+
+sqrt 2
+
+not (5 < 3)
+
+gcd 21 14
