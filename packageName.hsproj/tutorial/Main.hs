@@ -1,0 +1,1 @@
+main = do putStrLn "What is 2 + 2?"

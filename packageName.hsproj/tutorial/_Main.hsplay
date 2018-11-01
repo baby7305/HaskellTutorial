@@ -1,0 +1,14 @@
+-- Haskell Playground 1.0
+putStrLn "Hello, Haskell"
+
+putStr "No newline"
+
+print (5 + 4)
+
+print (1 < 2)
+
+do { putStr "2 + 2 = " ; print (2 + 2) }
+
+do { putStrLn "ABCDE" ; putStrLn "12345" }
+
+main
