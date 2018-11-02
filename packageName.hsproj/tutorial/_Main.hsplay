@@ -1,0 +1,30 @@
+-- Haskell Playground 1.0
+length ("Hello " ++ "World!")
+
+inc 3
+
+double 8
+
+exclaim "baby"
+
+average 3.0 4.0
+
+(average 3.0) 4.0
+
+average 6.9 7.25
+
+1   + 5
+3.4 * 7.2
+
+(+) 1   5
+(*) 3.4 7.2
+
+6.9  `average` 7.25
+
+6.9  `average` 7.25 `average` 3.4
+
+(6.9  `average` 7.25) `average` 3.4
+
+inc (square 5)
+
+square (inc 5)
