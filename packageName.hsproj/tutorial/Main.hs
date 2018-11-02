@@ -1,4 +1,3 @@
-inc::Int -> Int--type signature
 inc x = x + 1--function equation
 
 double::Int -> Int

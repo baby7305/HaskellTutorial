@@ -32,3 +32,5 @@ square (inc 5)
 showResult 123
 
 showAreaOfCircle 12.3
+
+average (inc 3) (inc 5)
