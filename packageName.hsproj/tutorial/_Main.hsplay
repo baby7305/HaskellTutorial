@@ -28,3 +28,7 @@ average 6.9 7.25
 inc (square 5)
 
 square (inc 5)
+
+showResult 123
+
+showAreaOfCircle 12.3

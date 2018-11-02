@@ -12,3 +12,10 @@ average a b = (a + b)/2.0
 
 square::Int -> Int
 square x = x * x
+
+showResult::Int -> String
+showResult x = "The result is "++show (x)
+
+showAreaOfCircle x = "The area of a circle with radius "++show(x)++"cm"++" is about  "++show(showAreaOfCircle1(x))++" cm^2"
+
+showAreaOfCircle1 x = 3.14 * (x)^2
