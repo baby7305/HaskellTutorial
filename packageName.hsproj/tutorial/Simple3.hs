@@ -28,3 +28,7 @@ distance (x1, y1, colour1) (x2, y2, colour2)
   where
     dx = x2 - x1
     dy = y2 - y1
+    
+--distance (x1, y1, colour1) (x2, y2, colour2) 
+--  = sqrt (fromIntegral (dx * dx + dy * dy))  
+--  where {dx = x2 - x1; dy = y2 - y1}
