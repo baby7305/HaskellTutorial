@@ -1,0 +1,18 @@
+-- Haskell Playground 1.0
+sort2 3 7
+
+sort2 6 5
+
+almostEqual (5,6) (6,5)
+
+almostEqual (5,6) (5,5)
+
+isLower 'c'
+
+isLower 'D'
+
+mangle "hello"
+
+divide 3 10
+
+divide 8 5

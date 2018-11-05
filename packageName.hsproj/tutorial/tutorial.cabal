@@ -14,6 +14,7 @@ executable tutorial
     default-language: Haskell2010
     other-modules:
         Simple2
+        Exercise
         Simple
         Simple3
 
