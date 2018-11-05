@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+fst (11, 30)
+
+snd (11, 30)
+

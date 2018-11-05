@@ -13,5 +13,7 @@ executable tutorial
         base -any
     default-language: Haskell2010
     other-modules:
+        Simple2
         Simple
+        Simple3
 
