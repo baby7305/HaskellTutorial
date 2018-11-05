@@ -1,0 +1,6 @@
+-- Haskell Playground 1.0
+max1 5 9
+
+pi
+
+circleArea' 6.0
