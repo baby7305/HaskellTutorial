@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+fact 3
+
+test4 3 5
+
+countOdds [1,2,5]
+
+removeOdd [1, 4, 5, 7, 10]
