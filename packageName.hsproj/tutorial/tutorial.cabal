@@ -12,4 +12,6 @@ executable tutorial
     build-depends:
         base -any
     default-language: Haskell2010
+    other-modules:
+        Recursion.Recursion
 

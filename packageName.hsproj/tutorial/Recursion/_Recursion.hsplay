@@ -1,0 +1,26 @@
+-- Haskell Playground 1.0
+allToUpper "Hello"
+
+distancesFromPoint (1,1,"red") [(1,1,"red"),(1,3,"green")]
+
+extractDigits "2Hel9lo"
+
+inRadius (1,1,"red") 1 [(1,1,"red"),(2,1,"red"),(1,3,"green")]
+
+product' [1,2,3]
+
+sum' [1,2,3,4]
+
+minList [3,2,4]
+
+concat' ["as","bs","cs"]
+
+deductFromAccount 75645 [322, 434, 5343, 234]
+
+stringToInt "321"
+
+fastReverse "321"
+
+sumOfSquareRoots [1,1,1]
+
+sumOfSquareRoots1 [1,1,1]
