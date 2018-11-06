@@ -1,0 +1,8 @@
+-- Haskell Playground 1.0
+natSum 3
+
+repeatN 3 5
+
+suffixes "hello"
+
+allSquares [1,2,3]
