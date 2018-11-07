@@ -1,0 +1,12 @@
+-- Haskell Playground 1.0
+let myLine=((400,400),(420,420))
+drawPicture 4 (spiralRays (pi/27.2) 1.01 400 green myLine)
+
+drawPicture 3 [(blue,spiral(pi/5.5) 1.04 100 myLine)]
+
+drawPicture 3 [(blue,spiral(pi/1.5) 1.04 100 myLine)]
+
+drawPicture 3 [(blue,spiral(pi/1.5+0.1) 1.04 100 myLine)]
+
+let myLine1=((460,800),(360,800))
+drawPicture 2 [(green,fractalTree 0.35 10 myLine1)]

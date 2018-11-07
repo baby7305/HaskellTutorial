@@ -17,4 +17,5 @@ executable tutorial
     other-modules:
         Tools.Fractals
         Tools.LineGraphics
+        Spirals
 
